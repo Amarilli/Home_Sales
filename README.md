@@ -1,7 +1,6 @@
 # Home_Sales
 
-I used Google Colab and SparkSQL to determine key metrics for home sales data. Then I created temporary views, partition the data, cached and uncached the temporary tables, and verified that the tables were uncached.
-
+In pursuit of significant metrics for home sales data, Google Colab and SparkSQL were employed to extract essential insights. The process entailed creating temporary views, partitioning the data, and caching and uncaching the temporary tables. Furthermore, the verification of uncached tables was carried out to ensure the optimal application of resources.
 
 I answered the following questions using SparkSQL:
 
